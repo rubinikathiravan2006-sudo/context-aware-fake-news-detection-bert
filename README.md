@@ -19,3 +19,6 @@ AI-based fake news detection system using BERT, Graph Neural Networks (GNN), and
 - Confidence score display
 - NLP preprocessing
 - User-friendly interface
+
+Result:
+![Result](Screenshots/fake news detection.jpeg)
